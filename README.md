@@ -1,7 +1,7 @@
 # Expense_Tracker
 ---
 
-# L7 Informatics – Expense & Savings Tracker CLI App
+# L7 Informatics
 
 A Python command-line application that enables users to efficiently track their daily expenses, manage monthly budgets, and monitor their savings goals. The app features budget alerts, category-wise tracking, and supports Docker for simplified deployment.
 
