@@ -50,7 +50,9 @@ install the python 3.8 which is suitable.
 
 ### 3. Run the Application
 
+```bash
 python expense_tracker.py
+```
 
 ### 4.Docker Usage
 
