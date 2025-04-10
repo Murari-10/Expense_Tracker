@@ -16,10 +16,9 @@ A Python command-line application that enables users to efficiently track their 
 - Alert when budget limit is crossed
 - JSON-based data persistence
 
-### 🏅 Bonus Features Implemented (Optional Enhancements)
+### 🏅 Bonus Features Implemented
 
 - Different budgets per month
-- Alerts when only 10% of budget remains
 - Docker support for containerized execution
 
 ---
@@ -37,18 +36,29 @@ Expense_Tracker/
 
 ## Steps for implementation
 
-### Clone the Repository
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Murari-10/Expense_Tracker
+```
 
-
-## 🐳 Docker Usage
-
-### Install the Python and the Docker
+### 2. Install the Python and the Docker
 
 install the python 3.8 which is suitable.
 
-### Run the Application
+### 3. Run the Application
 
-python Expense.py
+python expense_tracker.py
+
+### 4.Docker Usage
+
+1. Bulid the Docker Image
+   ```bash
+   docker build -t expense-tracker .
+   ```
+3. Run the Container
+   ```bash
+   docker run -it --rm expense-tracker
+   ```
 
 ### Docker Usage
 
