@@ -39,6 +39,8 @@ Expense_Tracker/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Murari-10/Expense_Tracker.git
+```
+```bash
 cd Expense_Tracker
 ```
 
