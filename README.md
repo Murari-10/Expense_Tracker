@@ -60,13 +60,3 @@ python expense_tracker.py
    docker run -it --rm expense-tracker
    ```
 
-### Docker Usage
-
-1. Bulid the Docker Image
-   ```bash
-   docker build -t expense-tracker .
-   ```
-3. Run the Container
-   ```bash
-   docker run -it --rm expense-tracker
-   ```
