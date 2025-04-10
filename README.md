@@ -38,7 +38,8 @@ Expense_Tracker/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Murari-10/Expense_Tracker
+git clone https://github.com/Murari-10/Expense_Tracker.git
+cd Expense_Tracker
 ```
 
 ### 2. Install the Python and the Docker
